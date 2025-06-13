@@ -1,1 +1,1 @@
-# Bitplane-Swapping-Attack-Unveiling-Vulnerabilities-in-Convolutional-Neural-Networks
+# BSA-Unveiling-Vulnerabilities-in-CNN
